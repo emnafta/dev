@@ -1,9 +1,8 @@
   
 ## Intro
 
-<p align="center">
-  <img width=30% src="https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg">
-</p>
+<img width=30% src="https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg">
+
 
 ## How to use Github:
 
