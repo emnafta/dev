@@ -1,8 +1,9 @@
   
 ## Intro
 
-<img width=30% src="https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg">
+![image](https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg)
 
+What do we want to learn? For what kind of development? What is a must / good starting point.
 
 ## How to use Github:
 
@@ -53,13 +54,26 @@ A review of the literature shows that the following protocols are most often use
 
 ## Sources: 
 
+[9 Best Programming Languages to Learn in 2021, FullStack Academy (n.d.)](https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn)
+
+**"Javascript, Swift, Scala, Go, Python, Elm, Ruby, C#, Rust"** - Includes interesting tables based on what kind of developmment...
+Front-end web development: JavaScript
+Back-end web development: JavaScript, Java, Python, PHP, Ruby
+Mobile development: Swift, Java, C#
+Game development: C++, C#
+Desktop applications: Java, C++, Python
+Systems programming: C, Rust
+
 [Best Programming Languages for Blockchain (Mar, 2020)](https://dev.to/duomly/which-programming-language-is-the-best-for-blockchain-all)
 
-"Javascript, C#, C++, Python, Golang, Solidity, Java, and Rust" - This article lists pros and cons, detailing the ins and outs of these languages
+**"Javascript, C#, C++, Python, Golang, Solidity, Java, and Rust"** 
+This article lists pros and cons, detailing the ins and outs of these languages
 
 [Why Blockchain Needs Kubernetes (May, 2020)](https://goteleport.com/blog/why-blockchain-needs-kubernetes/)
 
 [GeeksforGeeks, Top 10 Programming in Blockchain (2020)](https://www.geeksforgeeks.org/top-10-programming-languages-for-blockchain-development/)
+
+"C++, Python, Java, Solidity, Vyper, Golang, C#, Javascript, Simplicity, Rholang"
 
 [Freecodecamp, Most popular languages used in blockchain (2019)](https://www.freecodecamp.org/news/the-most-popular-programming-languages-used-in-blockchain-development-5133a0a207dc/)
 
