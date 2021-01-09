@@ -91,6 +91,8 @@ Read more at link...
 
 Python is the programming language we are currently focused on learning. We have started learning with [Minecraft](https://emnafta.github.io/minecraft-python/), to make the learning experience more enjoyable, relatable and applicable.
 
+## Solidity Development via CryptoZombies
+
 ## Unblockchains.org Web Scraping Project
 
 A project to aggregate news and reports on all things blockchain. Required learning: Ruby on rails, node.js/Javascript for webscraping
