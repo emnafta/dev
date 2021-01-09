@@ -22,24 +22,44 @@ MDN Development Resources [Link](https://developer.mozilla.org/en-US/)
 
 Devdocs Development Resources [Link](https://devdocs.io/)
 
-w3schoools Development Resources [Link](https://https://www.w3schools.com/)
+w3schools Development Resources [Link](https://https://www.w3schools.com/)
 
 Freecodecamp Development Resources [Link](https://www.freecodecamp.org/)
 
-## Projects 
+**CryptoZombies!** [Link](https://cryptozombies.io/) - Prior knowledge recommended.
 
 ## Blockchain Development Learning
 
-A review of the literature shows that the following languages are most often used by Ethereum developers:
-- Solidity
+A review of the literature shows that the following protocols are most often used by blockchain developers:
+
+- Solidity- Developed by Ethereum, made up oof multiple language including C++, Python, Ruby, Go and Java
 - C++
 - Python
-- Ruby
-- Go
+- Ruby- See: Izel Nakri, ["Ruby on Rails Tutorial"](https://www.railstutorial.org/book/beginning?fbclid=IwAR2GdRymBULgPeJYnRPKFyZT4eFcjJdHFUYpjzsFy-77J7G8Q6cGJOarxWs#cha-beginning)
 - Java
-- Javascript
+- Javascript - Learn node.js for webscraping
+- Vyper (blockchain programming languuage)
+- Golang
+- C#
+- Simplicity- high-level Blockchain development language that was created for smart contracts)
+- Rholang
+- Kubernetes (k8s)- See: Izel Nakri
+- Rust- See: Izel Nakri
+- Elixir- See: Izel Nakri
+- (?) libp2p
+- (?) Parity Tech (Substrate, Polkadot)
+- (?) Clojure 
+- (?) Erlang- Read: [Elixir vs. Erlang (Jun, 2020)](https://medium.com/@devathon_/elixir-vs-erlang-2020-de0facb6cd92)
 
 ## Sources: 
+
+[Best Programming Languages for Blockchain (Mar, 2020)](https://dev.to/duomly/which-programming-language-is-the-best-for-blockchain-all)
+
+"Javascript, C#, C++, Python, Golang, Solidity, Java, and Rust" - This article lists pros and cons, detailing the ins and outs of these languages
+
+[Why Blockchain Needs Kubernetes (May, 2020)](https://goteleport.com/blog/why-blockchain-needs-kubernetes/)
+
+[GeeksforGeeks, Top 10 Programming in Blockchain (2020)](https://www.geeksforgeeks.org/top-10-programming-languages-for-blockchain-development/)
 
 [Freecodecamp, Most popular languages used in blockchain (2019)](https://www.freecodecamp.org/news/the-most-popular-programming-languages-used-in-blockchain-development-5133a0a207dc/)
 
@@ -51,43 +71,12 @@ Ethereum — Technically Ethereum functions as an Ethereum Virtual Machine (EVM)
 
 Read more at link...
 
+## Projects 
+
 ## Python Development via Minecraft
 
 Python is the programming language we are currently focused on learning. We have started learning with [Minecraft](https://emnafta.github.io/minecraft-python/), to make the learning experience more enjoyable, relatable and applicable.
 
----
+## Unblockchains.org Web Scraping Project
 
-Other Info (to be deleted...)
-==
-
-Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages on our site, from the content in your Markdown files.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emnafta/dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A project to aggregate news and reports on all things blockchain. Required learning: Ruby on rails, node.js/Javascript for webscraping
