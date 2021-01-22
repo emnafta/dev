@@ -23,11 +23,13 @@ MDN Development Resources [Link](https://developer.mozilla.org/en-US/)
 
 Devdocs Development Resources [Link](https://devdocs.io/)
 
-w3schools Development Resources [Link](https://https://www.w3schools.com/)
+w3schools Development Resources [Link](https://www.w3schools.com/)
 
 Freecodecamp Development Resources [Link](https://www.freecodecamp.org/)
 
-**CryptoZombies!** [Link](https://cryptozombies.io/) - Prior knowledge recommended.
+**CryptoZombies!** [Link](https://cryptozombies.io/) - For intro to Solidity, prior knowledge recommended. (See Solidity.md)
+
+Ivan on Tech Academy [Link](https://academy.ivanontech.com) - Membership required! 
 
 ## Blockchain Development Learning
 
