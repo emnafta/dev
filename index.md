@@ -21,6 +21,8 @@ The following three sites provide free resources for learning different types of
 
 Eloquent Javascript [Link](https://eloquentjavascript.net/)
 
+Moralis [Link](https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw)
+
 MDN Development Resources [Link](https://developer.mozilla.org/en-US/)
 
 Devdocs Development Resources [Link](https://devdocs.io/)
