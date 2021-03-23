@@ -102,6 +102,6 @@ Python is the programming language we are currently focused on learning. We have
 A project to aggregate news and reports on all things blockchain. Required learning: Ruby on rails, node.js/Javascript for webscraping
 
 
-## signetures
+## Signetures
 
 Mnafta, Ozturk
