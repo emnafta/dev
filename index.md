@@ -19,6 +19,8 @@ GitHub guides include the [Hello World Guide](https://guides.github.com/activiti
 
 The following three sites provide free resources for learning different types of computer science and languages:
 
+Eloquent Javascript [Link](https://eloquentjavascript.net/)
+
 MDN Development Resources [Link](https://developer.mozilla.org/en-US/)
 
 Devdocs Development Resources [Link](https://devdocs.io/)
