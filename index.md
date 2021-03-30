@@ -1,5 +1,5 @@
   
-## Intro
+## Intro to Coding 2
 
 ![image](https://miro.medium.com/max/1240/1*dQb7Yc4jjfePaO2xnLDQyQ.jpeg)
 
