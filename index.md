@@ -32,6 +32,7 @@ w3schools Development Resources [Link](https://www.w3schools.com/)
 Freecodecamp Development Resources [Link](https://www.freecodecamp.org/)
 
 **CryptoZombies!** [Link](https://cryptozombies.io/) - For intro to Solidity, prior knowledge recommended. (See Solidity.md)
+**Elemental Battles** [Link](https://battles.eos.io/) - For intro to eosio language, prior knowledge recommended.
 
 Ivan on Tech Academy [Link](https://academy.ivanontech.com) - Membership required! 
 
