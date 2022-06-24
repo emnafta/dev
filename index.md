@@ -40,7 +40,7 @@ Ivan on Tech Academy [Link](https://academy.ivanontech.com) - Membership require
 
 A review of the literature shows that the following protocols are most often used by blockchain developers:
 
-- Solidity- Developed by Ethereum, made up oof multiple language including C++, Python, Ruby, Go and Java
+- Solidity- Developed by Ethereum, made up of multiple language including C++, Python, Ruby, Go and Java
 - C++
 - Python
 - Ruby- See: Izel Nakri, ["Ruby on Rails Tutorial"](https://www.railstutorial.org/book/beginning?fbclid=IwAR2GdRymBULgPeJYnRPKFyZT4eFcjJdHFUYpjzsFy-77J7G8Q6cGJOarxWs#cha-beginning)
